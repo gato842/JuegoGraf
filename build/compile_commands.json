@@ -1,0 +1,86 @@
+[
+{
+  "directory": "C:/Practicas/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/mi_juego.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\mi_juego.dir\\src\\Juego\\main.cpp.obj -c C:\\Practicas\\src\\Juego\\main.cpp",
+  "file": "C:/Practicas/src/Juego/main.cpp",
+  "output": "CMakeFiles/mi_juego.dir/src/Juego/main.cpp.obj"
+},
+{
+  "directory": "C:/Practicas/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/mi_juego.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\mi_juego.dir\\src\\Juego\\src\\Player.cpp.obj -c C:\\Practicas\\src\\Juego\\src\\Player.cpp",
+  "file": "C:/Practicas/src/Juego/src/Player.cpp",
+  "output": "CMakeFiles/mi_juego.dir/src/Juego/src/Player.cpp.obj"
+},
+{
+  "directory": "C:/Practicas/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/mi_juego.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\mi_juego.dir\\src\\Juego\\src\\Fire.cpp.obj -c C:\\Practicas\\src\\Juego\\src\\Fire.cpp",
+  "file": "C:/Practicas/src/Juego/src/Fire.cpp",
+  "output": "CMakeFiles/mi_juego.dir/src/Juego/src/Fire.cpp.obj"
+},
+{
+  "directory": "C:/Practicas/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/mi_juego.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\mi_juego.dir\\src\\Juego\\src\\Bucket.cpp.obj -c C:\\Practicas\\src\\Juego\\src\\Bucket.cpp",
+  "file": "C:/Practicas/src/Juego/src/Bucket.cpp",
+  "output": "CMakeFiles/mi_juego.dir/src/Juego/src/Bucket.cpp.obj"
+},
+{
+  "directory": "C:/Practicas/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/mi_juego.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\mi_juego.dir\\src\\Juego\\src\\WaterBeam.cpp.obj -c C:\\Practicas\\src\\Juego\\src\\WaterBeam.cpp",
+  "file": "C:/Practicas/src/Juego/src/WaterBeam.cpp",
+  "output": "CMakeFiles/mi_juego.dir/src/Juego/src/WaterBeam.cpp.obj"
+},
+{
+  "directory": "C:/Practicas/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/mi_juego.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\mi_juego.dir\\src\\Juego\\src\\Game.cpp.obj -c C:\\Practicas\\src\\Juego\\src\\Game.cpp",
+  "file": "C:/Practicas/src/Juego/src/Game.cpp",
+  "output": "CMakeFiles/mi_juego.dir/src/Juego/src/Game.cpp.obj"
+},
+{
+  "directory": "C:/Practicas/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/mi_juego.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\mi_juego.dir\\src\\Juego\\src\\Level1.cpp.obj -c C:\\Practicas\\src\\Juego\\src\\Level1.cpp",
+  "file": "C:/Practicas/src/Juego/src/Level1.cpp",
+  "output": "CMakeFiles/mi_juego.dir/src/Juego/src/Level1.cpp.obj"
+},
+{
+  "directory": "C:/Practicas/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/mi_juego.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\mi_juego.dir\\src\\Juego\\src\\Level2.cpp.obj -c C:\\Practicas\\src\\Juego\\src\\Level2.cpp",
+  "file": "C:/Practicas/src/Juego/src/Level2.cpp",
+  "output": "CMakeFiles/mi_juego.dir/src/Juego/src/Level2.cpp.obj"
+},
+{
+  "directory": "C:/Practicas/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/mi_juego.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\mi_juego.dir\\src\\Juego\\src\\HelperNPC.cpp.obj -c C:\\Practicas\\src\\Juego\\src\\HelperNPC.cpp",
+  "file": "C:/Practicas/src/Juego/src/HelperNPC.cpp",
+  "output": "CMakeFiles/mi_juego.dir/src/Juego/src/HelperNPC.cpp.obj"
+},
+{
+  "directory": "C:/Practicas/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/mi_juego.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\mi_juego.dir\\src\\Juego\\src\\Menu.cpp.obj -c C:\\Practicas\\src\\Juego\\src\\Menu.cpp",
+  "file": "C:/Practicas/src/Juego/src/Menu.cpp",
+  "output": "CMakeFiles/mi_juego.dir/src/Juego/src/Menu.cpp.obj"
+},
+{
+  "directory": "C:/Practicas/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/mi_juego.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\mi_juego.dir\\src\\Juego\\src\\Credits.cpp.obj -c C:\\Practicas\\src\\Juego\\src\\Credits.cpp",
+  "file": "C:/Practicas/src/Juego/src/Credits.cpp",
+  "output": "CMakeFiles/mi_juego.dir/src/Juego/src/Credits.cpp.obj"
+},
+{
+  "directory": "C:/Practicas/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/mi_juego.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\mi_juego.dir\\src\\Juego\\src\\TextureUtils.cpp.obj -c C:\\Practicas\\src\\Juego\\src\\TextureUtils.cpp",
+  "file": "C:/Practicas/src/Juego/src/TextureUtils.cpp",
+  "output": "CMakeFiles/mi_juego.dir/src/Juego/src/TextureUtils.cpp.obj"
+},
+{
+  "directory": "C:/Practicas/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/mi_juego.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\mi_juego.dir\\src\\Juego\\src\\Intro.cpp.obj -c C:\\Practicas\\src\\Juego\\src\\Intro.cpp",
+  "file": "C:/Practicas/src/Juego/src/Intro.cpp",
+  "output": "CMakeFiles/mi_juego.dir/src/Juego/src/Intro.cpp.obj"
+},
+{
+  "directory": "C:/Practicas/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/mi_juego.dir/includes_CXX.rsp -g -std=gnu++17 -IC:/msys64/ucrt64/bin/../include -o CMakeFiles\\mi_juego.dir\\src\\Juego\\src\\HighScore.cpp.obj -c C:\\Practicas\\src\\Juego\\src\\HighScore.cpp",
+  "file": "C:/Practicas/src/Juego/src/HighScore.cpp",
+  "output": "CMakeFiles/mi_juego.dir/src/Juego/src/HighScore.cpp.obj"
+}
+]

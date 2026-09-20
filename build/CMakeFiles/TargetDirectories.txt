@@ -1,0 +1,3 @@
+C:/Practicas/build/CMakeFiles/mi_juego.dir
+C:/Practicas/build/CMakeFiles/edit_cache.dir
+C:/Practicas/build/CMakeFiles/rebuild_cache.dir
